@@ -1,2 +1,2 @@
-# nature_inspired_methauristics
+# Methauristics Algorithms
 Personal implementation of some Methauristics
